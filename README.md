@@ -8,6 +8,8 @@ You can find pre-built ISO files for this kernel at [this repository](https://gi
 
 Considering supporting this work via [my Patreon page](http://patreon.com/codepulse).
 
+**^^^ CodePulse's link, not mine!**
+
 ## Prerequisites
 
  - A text editor such as [VS Code](https://code.visualstudio.com/).
